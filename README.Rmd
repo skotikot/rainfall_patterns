@@ -1,0 +1,3 @@
+## README
+
+Repository for files related to analysis of rainfall patterns. 
